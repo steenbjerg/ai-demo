@@ -6,6 +6,6 @@ This project plays with accessing openai from a quarkus application. The first e
 
 You need to setup your apikey towards openai before running quarkus dev. The reason is to avoid committing the api key.
 
-´´´{script}
+```{script}
 export OPENAI_KEY=<your key>
-´´´
+```
